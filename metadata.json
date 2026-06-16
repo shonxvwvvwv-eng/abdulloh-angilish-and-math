@@ -1,0 +1,6 @@
+{
+  "name": "Matematika va Ingliz Tili Maktabi",
+  "description": "1-11 sinflar uchun qiziqarli matematika va ingliz tili o'rganish va o'yinlar platformasi, hamda AI o'qituvchi yordamchisi bilan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
